@@ -1,5 +1,9 @@
 ### TAP TESTS - Selenium Automation
 ---
+
+#### Test Insructions
+https://docs.google.com/document/d/1TY5E0GlSomqc3m9jppkEKoazIdpF-a87fFwAc3y3Wts/pub
+
 #### System Requirement:
 
 * JDK 1.6 or above
